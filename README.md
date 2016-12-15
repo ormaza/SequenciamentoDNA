@@ -1,2 +1,2 @@
 # Problema do sequenciamento de DNA
-Nesse problema pariticionamos uma sequencia de DNA em subsequências dela, e através da coincidência tenta-se juntar essas subsequências e remontar a sequência de origem.
+A montagem do genoma é feito através da união de um grande número de sequências de DNA que são juntadas para criar uma representação do cromossomo original do DNA em estudo.
